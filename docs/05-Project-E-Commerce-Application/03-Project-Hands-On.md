@@ -1,5 +1,5 @@
 # Project Hands On
-  - Take me to [Practice Test](https://kodekloud.com/courses/shell-scripts-for-beginners/lectures/22122812)
+  
   - Take me to [Automation Script](deploy-ecommerce-application.sh)
   
 #### Solutions to the practice test
