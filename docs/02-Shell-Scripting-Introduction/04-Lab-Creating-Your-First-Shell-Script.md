@@ -1,5 +1,4 @@
-# Lab - Creating your first shell script
-  - Take me to [Practice Test](https://kodekloud.com/courses/1029419/lectures/21505474)
+
   
 Solutions to the practice test
 - Create a script
